@@ -1,0 +1,31 @@
+.formTitle {
+    margin: 15px;
+}
+
+.formLabel {
+    display: inline-block;
+    width: 92px;
+    margin-right: 10px;
+    text-align: right;
+}
+
+.formLabel-mobile {
+    width: 92px;
+    text-align: center;
+}
+
+.formInput {
+    width: 700px;
+    margin-bottom: 10px;
+}
+
+.formImage {
+    width: 150px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.formButton {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
