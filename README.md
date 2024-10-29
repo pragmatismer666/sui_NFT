@@ -3,13 +3,13 @@
 To install dependencies you can run
 
 ```bash
-npm install
+pnpm install
 ```
 
 To start your dApp in development mode run
 
 ```bash
-npm dev
+pnpm dev
 ```
 
 ## Building
@@ -17,5 +17,5 @@ npm dev
 To build your app for deployment you can run
 
 ```bash
-npm build
+pnpm build
 ```

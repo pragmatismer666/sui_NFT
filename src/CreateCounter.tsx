@@ -4,7 +4,6 @@ import { useSignAndExecuteTransaction, useSuiClient } from "@mysten/dapp-kit";
 import { useNetworkVariable } from "./networkConfig";
 import React, { useState } from 'react';
 import styles from './input.module.css';
-import { WidthIcon } from "@radix-ui/react-icons";
 
 // import { InputPara } from "./input.tsx";
 
